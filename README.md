@@ -8,16 +8,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧠 What I do
 
 -   🏗️ SaaS & High-scale systems
