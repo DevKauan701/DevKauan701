@@ -13,11 +13,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 -   🏗️ SaaS & High-scale systems
 -   ⚡ Performance optimization
 -   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
 -   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
 
 ---
 
