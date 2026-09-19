@@ -1,6 +1,6 @@
 # Hi 👋, I'm Francisco Kauan
 
-🚀 ** Junior Software Engineer | TypeScript & NodeJS**  
+🚀 **Junior Software Engineer | TypeScript & NodeJS**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
