@@ -8,15 +8,6 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ---
 
-## 🧠 What I do
-
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   💳 Payments, subscriptions & business logic
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
