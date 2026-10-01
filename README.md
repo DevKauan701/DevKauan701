@@ -12,7 +12,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ### Frontend
 
-!<img src="./icons/JavaScript.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48">
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
