@@ -10,7 +10,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 ## 🛠️ Tech Stack
 
-### 
+### Frontend
 https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg
 [Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
